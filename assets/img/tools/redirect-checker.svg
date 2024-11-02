@@ -1,0 +1,20 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 387" width="512" height="387">
+	<title>redirect-checker-svg</title>
+	<style>
+		.s0 { fill: #96d1f3 } 
+		.s1 { fill: #3ca6e6 } 
+		.s2 { fill: #000000 } 
+		.s3 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m499.6 82.8l-89 67.6v-35.7h-74.7l-221.8 221.8h-106.6v-63.8h80.2l221.8-221.9h101.1v-35.7z"/>
+		<path id="Layer" class="s0" d="m166.6 193.7l45.2-45.2-97.7-97.7h-106.6v63.9h80.2zm243.9 79h-74.7l-78.9-79-45.2 45.1 97.7 97.7h101.1v35.7l89-67.6-89-67.6z"/>
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s1" d="m117.7 272.7h-30l221.8-221.9h30zm-110.2 0h30v63.9h-30zm0-221.8h30v63.8h-30z"/>
+			<path id="Layer" class="s1" d="m117.7 114.7h-30l78.9 79 15-15zm154.3 94l-15-15-45.1 45.1 97.7 97.7h30l-97.7-97.7z"/>
+		</g>
+		<path id="Layer" fill-rule="evenodd" class="s2" d="m117.2 344h-117.2v-78.8h84.6l221.8-221.9h96.7v-43.3l108.9 82.8-108.9 82.7v-43.3h-64.1zm-102.2-15h96l221.8-221.8h85.3v28.1l69.1-52.6-69.1-52.5v28.1h-105.5l-221.8 221.8h-75.8z"/>
+		<path id="Layer" class="s2" d="m141.9 179.5l-57.3-57.3h-84.6v-78.9h117.2l80.5 80.5-10.7 10.6-76-76.1h-96v48.9h75.8l61.7 61.7zm261.2 207.8v-43.3h-96.7l-80.5-80.4 10.6-10.6 76.1 76h105.5v28.1l69.1-52.5-69.1-52.5v28.1h-85.3l-61.7-61.8 10.6-10.6 57.3 57.4h64.1v-43.4l108.9 82.8z"/>
+		<path id="Layer" class="s3" d="m404.7 90.3h-15v-15h15zm-25 0h-15v-15h15z"/>
+	</g>
+</svg>
